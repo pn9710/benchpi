@@ -8,6 +8,6 @@ Enable SSH via empty ssh file
 
 SSH into Pi and run:
 
-wget https://yourgithublink.com/benchpi-bootstrap.sh
+wget https://github.com/pn9710/benchpi.git/benchpi-bootstrap.sh
 chmod +x benchpi-bootstrap.sh
 ./benchpi-bootstrap.sh
